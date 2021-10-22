@@ -1,0 +1,7 @@
+#requirements
+
+pip3 install rich 
+pip3 install rich.console 
+pip3 install rich.markdown 
+pip3 install termcolor 
+pip3 install pytube # (Normally, this is only what we need. The others was for terminal fun:), for the purpose of learning/experimenting)
