@@ -1,6 +1,8 @@
 # YoutubeVideoDownloader.py
 A simple CLI tool to download Youtube videos
 
+- Here is the audio version: https://github.com/emreYbs/Youtube2mp3   *(a simple CLI tool to download Youtube videos and convert to Mp3)*
+
 **USAGE** : 
 python3 YoutubeVideoDownloader.py 
 
