@@ -1,4 +1,4 @@
-#!/bin/bash
+##!/usr/bin/python3
 #EmreYbs
 
 from rich.console import Console
